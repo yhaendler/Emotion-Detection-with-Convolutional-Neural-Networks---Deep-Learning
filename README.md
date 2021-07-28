@@ -9,9 +9,9 @@ Michael Riedeman & Yair Haendler
 |Folder / File|Content|
 |---|---|
 |Code|Jupyter notebook to prepare the image files (preprocessing); Jupyter notebook to set up and run the model (modelin); a file with useful functions|
-|Datasets|Image files for the model|
+|Datasets|Empty directory and subdirectories that would contain image files for the model|
 |Presentation Images|images displayed in this README.md file|
-|Saved Models|The best performing model|
+|Saved Models|Directory containing the best performing model saved from Keras|
 |Test|Image files to test the model|
 |Emotion Detection with CNNs.pptx|Presentation slides|
 
