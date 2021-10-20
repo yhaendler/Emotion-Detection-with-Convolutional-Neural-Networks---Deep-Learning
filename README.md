@@ -4,7 +4,7 @@ Michael Riedeman & Yair Haendler
 
 ---
 
-#### 📝 In short: We trained a Convolutional Neural Network (CNN) on 2000 images of human faces - 1000 happy/smiling faces and 1000 with a neutral facial expression. We controlled for the effect of age, gender and skin color, by including a balanced amount of images of people from different ages (babies, toddlers/children, young adults, elderly), different gender (women, men) and different ethnicity (white skinned, dark skinned, Asian). The CNN yielded an accuracy score of 0.988 on the training data, and an accuracy score of 0.972 on the validation data. We tested the CNN on a separate collection of 360 images - yielding an accuracy score of 0.94 on this test data.
+#### 📝 In short: We trained a Convolutional Neural Network (CNN) on 2000 images of human faces - 1000 happy/smiling faces and 1000 with a neutral facial expression. We controlled for the effect of age, gender and skin color, by including a balanced amount of images of people from different ages (babies, toddlers/children, young adults, elderly), different gender (women, men) and different ethnicity (white skinned, dark skinned, Asian). Baseline accuracy was 0.5. The CNN yielded an accuracy score of 0.988 on the training data, and an accuracy score of 0.972 on the validation data. We tested the CNN on a separate collection of 360 images - yielding an accuracy score of 0.94 on this test data.
 
 ---
 
